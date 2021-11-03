@@ -4,4 +4,4 @@ Administrador de citas para una veterinaria, en el cual se puede guardar los tur
 Este pequeño proyecto esta hecho con React.
 
 ## Demo
-click aqui [https://ruizandino-citas-react.netlify.app/](administradorDeCitas) para verlo en el navegador
+click aqui [https://ruizandino-citas-react.netlify.app/](https://ruizandino-citas-react.netlify.app/) para verlo en el navegador
